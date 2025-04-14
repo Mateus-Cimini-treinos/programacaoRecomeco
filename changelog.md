@@ -12,5 +12,6 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 
 - Added oque_e_isso.txt
 - Added changelog.md
+- Added nomenclaturas_commit.md
 
 
