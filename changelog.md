@@ -10,8 +10,27 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 
 ### Added
 
-- Added oque_e_isso.txt
-- Added changelog.md
-- Added nomenclaturas_commit.md
+- Added: oque_e_isso.txt
+- Added: changelog.md
+- Added: nomenclaturas_commit.md
 
+## [0.0.2] - 15-04-2025
+
+### Added
+
+- Added: pRecomecoModulo5PrimeiroProjeto
+- Added: github.txt
+- Added: githubRemoto.txt
+
+## [0.0.3] - 18-04-2025
+
+### Added
+
+- Added: modulo2GitHub
+- Added: modulo3Html
+
+### Moved
+
+- Moved: github.txt to: modulo2GitHub
+- Moved: githubRemoto.txt to: modulo2GitHub
 
