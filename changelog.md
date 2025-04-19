@@ -28,9 +28,13 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 
 - Added: modulo2GitHub
 - Added: modulo3Html
+- Added: aula01Iintroduçao
+- Added: aula02InserindoTextos
 
 ### Moved
 
 - Moved: github.txt to: modulo2GitHub
 - Moved: githubRemoto.txt to: modulo2GitHub
+
+## [0.0.4] - 19-04-2025
 
