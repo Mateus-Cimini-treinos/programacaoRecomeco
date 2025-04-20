@@ -41,3 +41,5 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 ### Added 
 
 - Added: aula03AgrupandoElementos
+- Added: aula04Listas
+- Added: aula05Tabelas
