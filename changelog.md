@@ -38,3 +38,6 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 
 ## [0.0.4] - 19-04-2025
 
+### Added 
+
+- Added: aula03AgrupandoElementos
