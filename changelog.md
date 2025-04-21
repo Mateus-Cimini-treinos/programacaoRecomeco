@@ -50,3 +50,6 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 ### added
 
 - Added: aulaO7Midia
+- Added: modulo04Css
+- Added: aula01ConhecendoCss
+- Added: aula02Seletores
