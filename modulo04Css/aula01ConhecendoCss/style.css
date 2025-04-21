@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#btnSuccess {
+    background-color: green;
+    border: black solid 1px;
+    border-radius: 6px;
+}
+
+#btnCancel{
+    background-color: red;
+    border:black solid 1px;
+    border-radius: 6px;
+}
