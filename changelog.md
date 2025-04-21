@@ -44,3 +44,9 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 - Added: aula04Listas
 - Added: aula05Tabelas
 - Added: aula06Formularios
+
+## [0.0.5] - 20-04-2025
+
+### added
+
+- Added: aulaO7Midia
