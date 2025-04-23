@@ -58,4 +58,5 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 
 ### Added
 
-- Added: aukao3BoxModel
+- Added: aula03BoxModel
+- Added: aula04Boxsizing
