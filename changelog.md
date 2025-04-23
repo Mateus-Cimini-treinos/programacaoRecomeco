@@ -62,3 +62,5 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 - Added: aula04Boxsizing
 - Added: aula05DefinindoDisplay
 - Added: aula06Position
+- Added: aula07Nucleos
+- Added: aula08
