@@ -1,0 +1,28 @@
+* {
+
+}
+
+h1 {
+    background-color: aquamarine;
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+    border: solid red 10px;
+    margin: 20px;
+}
+
+a {
+    background-color: violet;
+    height: 20px;
+    width: 20px;
+    padding: 10px;
+    border: solid greenyellow 5px;
+    margin: 10px;
+}
+
+
+P {
+    background-color: brown;
+    padding: 10px;
+    border: solid blue 5px;
+}

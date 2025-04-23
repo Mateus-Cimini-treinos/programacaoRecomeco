@@ -47,9 +47,15 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 
 ## [0.0.5] - 20-04-2025
 
-### added
+### Added
 
 - Added: aulaO7Midia
 - Added: modulo04Css
 - Added: aula01ConhecendoCss
 - Added: aula02Seletores
+
+## [0.0.6] - 22-04-2025
+
+### Added
+
+- Added: aukao3BoxModel
