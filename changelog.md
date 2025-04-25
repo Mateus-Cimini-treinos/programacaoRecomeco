@@ -64,3 +64,9 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 - Added: aula06Position
 - Added: aula07Nucleos
 - Added: aula08
+
+## [0.0.7] - 25-04-2025
+
+### Added
+
+- Added: exercicioModulo04
