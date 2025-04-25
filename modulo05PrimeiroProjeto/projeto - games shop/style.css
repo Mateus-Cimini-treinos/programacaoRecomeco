@@ -1,7 +1,21 @@
+:root {
+    --fonte-Bungee: "Bungee", sans-serif;
+    --fonte-Roboto: "Roboto", sans-serif;
+}
+
 *{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+}
+
+header ,
+section h2 {
+    font-family: var(--fonte-Bungee);
+}
+
+body {
+    font-family: var(--fonte-Roboto);
 }
 
 header {
@@ -10,9 +24,15 @@ header {
     color: #fff
 }
 
+header h1,
+section h2 {
+    font-weight: normal;
+}
+
 header nav li {
     display: inline;
     margin: 0 8px;
+    font-size: 18px;
 }
 
 header nav li a{
@@ -20,7 +40,8 @@ header nav li a{
     text-decoration: none;
 }
 
-header .container {
+header .container,
+section .container {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -30,4 +51,34 @@ header .container {
     max-width: 1280px;
     width: 100%;
     margin: 0 auto;
+}
+
+.brand-list img {
+    height: 24px;
+}
+
+.brand-list li {
+    display: inline;
+    margin-right: 8px;
+}
+
+section .container {
+    align-items: flex-start;
+}
+
+section {
+    padding: 24px 0px;
+    color: #182c61;
+}
+
+section h2 {
+    margin-bottom: 16px;
+}
+
+section p {
+    margin-bottom: 8px;
+}
+
+.img-home {
+    margin-right: 32px;
 }
