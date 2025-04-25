@@ -1,0 +1,1 @@
+Esse modulo em vez de ter um diretorio para acada aula nesse modulo vai ser tudo no mesmo diretorio e se eu quiser voltar no conteudo da aula anterior eu vou te rque usar o git e baixar o commit da anterior pq no final de cada aula eu vou fazer um commit e na mensagem vou descrever qual numero da aula
