@@ -15,14 +15,14 @@
             <h1>Games shop</h1>
             <nav>
                 <ul>
-                    <li><a href="#">Sobre a loja</a></li>
-                    <li><a href="#">Contato</a></li>
+                    <li><a href="#sobre">Sobre a loja</a></li>
+                    <li><a href="#contact">Contato</a></li>
                 </ul>
             </nav>
         </div>
     </header>
 
-    <section>
+    <section id="sobre">
         <div class="container">
             <img class="img-home" src="/modulo05PrimeiroProjeto/images/loja.jpg" alt="">
             <div>
@@ -41,5 +41,57 @@
             </div>
         </div>
     </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contato</h2>
+            <div class="contact-methods">
+                <div>
+                    <h3>Fale conosco</h3>
+                    <form action="">
+                        <input type="text" placeholder="Seu nome" required>
+                        <input type="email" placeholder="Seu email" required>
+                        <input type="tel" placeholder="Seu telefone (opicional)">
+                        <textarea name="" id="" placeholder="Sua mensagem" required></textarea>
+                        <button type="submit">Enviar</button>
+                    </form>
+                </div>
+                <div>
+                    <h3>Nos acompanhe</h3>
+                    <ul class="social-links">
+                        <li>
+                            <a href="#" title="nosso instagram"></a>
+                            <img src="../images/instagram.png" alt="logo-intagram">
+                        </li>
+
+                        <li>
+                            <a href="#" title="nosso grupo no facebook"></a>
+                            <img src="../images/facebook.png" alt="logo-facebook">
+                        </li>
+
+                        <li>
+                            <a href="#" title="nosso canal no youtube"></a>
+                            <img src="../images/youtube.png" alt="logo-youtube">
+                        </li>
+
+                    </ul>
+                </div>
+                <div >
+                    <h3>venha até nós</h3>
+                    <p>
+                        Rua JavaScript,Vila HTML, n02
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>
+                &copy: Games Shop - Todos os direitos reservados - 2025
+            </p>
+        </div>
+    </footer>
 </body>
 </html>
