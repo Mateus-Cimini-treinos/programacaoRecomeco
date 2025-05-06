@@ -70,3 +70,10 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 ### Added
 
 - Added: exercicioModulo04
+
+## [0.0.8] - 05-05-2025
+
+### Added
+
+- Added: modulo06JavaScript
+- Added: aula02variaveis
