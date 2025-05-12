@@ -1,4 +1,4 @@
-# 📚 Modulo 06 aula 04 - Tipos de Dados Java Script
+# 📚 Modulo 06 aula 04 - Arrays (vetores) Java Script
 
 ## 🧠 O que é um Array?
 Um **array** é uma estrutura de dados usada para armazenar cãrios valores em uma única variavel. Ele pode conter números, string, objetos, funções, entre outros.
