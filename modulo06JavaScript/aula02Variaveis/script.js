@@ -2,8 +2,6 @@
 // let = valores que podem ser substituidos
 
 
-
-
 let fruta;
 
 console.log("A fruta é: ", fruta);

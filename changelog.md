@@ -78,8 +78,14 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 - Added: modulo06JavaScript
 - Added: aula02variaveis
 
-## [0.0.9] - 05-05-2025
+## [0.0.9] - 09-05-2025
 
 ### Added
 
 - Added: aula03TiposDeDados
+
+## [0.0.10] - 12-05-2025
+
+# Added
+
+- Added: aula04Arrays(vetores)
