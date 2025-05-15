@@ -89,3 +89,9 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 # Added
 
 - Added: aula04Arrays(vetores)
+
+## [0.0.11] - 14-05-2025
+
+#Added
+
+-Added: aula05loops
