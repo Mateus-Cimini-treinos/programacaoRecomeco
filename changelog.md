@@ -101,3 +101,9 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 #Added
 
 -Added: aula06Condicionais
+
+## [0.0.13] - 19-05-2025
+
+#Added
+
+-Added: aula07Funçoes
