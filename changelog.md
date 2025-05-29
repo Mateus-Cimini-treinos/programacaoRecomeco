@@ -108,3 +108,11 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 
 -Added: aula07Funçoes
 -Added: aula08EscopoEClosures
+
+## [0.0.14] - 29-05-2025
+
+#Added
+
+-Added: modulo07HtmlComJs
+-Added: ArquivoModulo7
+-Added: aula02SelecioneElementos

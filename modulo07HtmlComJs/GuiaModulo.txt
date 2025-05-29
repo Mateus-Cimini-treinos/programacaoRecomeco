@@ -1,0 +1,5 @@
+
+Olá, tudo bem? Neste módulo, aprenderemos a integrar o HTML com o JavaScript.
+Vamos descobrir como selecionar elementos HTML usando,o JavaScript, recuperar e manipular os atributos dos elementos.Então, por exemplo, numa imagem, né? A gente tem o atributo SRC e, através do JavaScript, podemos manipular esse atributo.Com HTML, podemos adicionar algumas validações básicas, como por exemplo dizer que o campo é obrigatório, colocar o valor mínimo e máximo para os campos do tipo número. Porém, não temos uma validação complexa, como por exemplo o nome completo, 
+A gente só pode dizer que um campo é obrigatório, mas não conseguimos fazer isso no HTML, dizer que ele precisa ter o nome completo. Ao final deste módulo, teremos um formulário que passará por uma validação customizada e essa customização a gente vai fazer via JavaScript. Aprenderemos também a adicionar eventos aos elementos, como por exemplo, cada vez que um campo for alterado, uma função JavaScript será chamada.E para finalizar, vamos aplicar estilos aos elementos HTML através do JavaScript.
+          
