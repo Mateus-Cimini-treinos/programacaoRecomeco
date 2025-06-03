@@ -116,3 +116,11 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 -Added: modulo07HtmlComJs
 -Added: ArquivoModulo7
 -Added: aula02SelecioneElementos
+
+
+## [0.0.15] - 02-06-2025
+
+#Added
+
+-Added: aula03DesignEForm
+-Added: aula04AddEventoAoForm
