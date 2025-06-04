@@ -124,3 +124,10 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 
 -Added: aula03DesignEForm
 -Added: aula04AddEventoAoForm
+
+
+## [0.0.17] - 04-06-2025
+
+#Added
+
+-Added: aula05EstilizeElementos
