@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manipulando DOM</title>
+    <style>
+        body {
+            background-color: bisque;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="titulo">Iniciando os estudos com DOM</h1>
+
+    <p>O DOM (Document Object Model) é uma representação de dados dos objetos que compõem a estrutura e o conteúdo de um documento na Web.</p>
+
+    <p>Abaixo tem uma <strong>imagem</strong> mostrando um arvore dom similar a essa pagina</p>
+
+    <div>
+            <img src="imgs/arvore-DOM.png" alt="">
+    </div>
+
+    <script>
+        let p1 = window.document.getElementsByTagName("p")[0];
+
+        let titulo = window.document.getElementById('titulo');
+        titulo.style.color = 'red'
+
+        window.document.write(`escrevendo usando DOM
+        aqui esta o valor do paragrafo 1 : ${p1.innerText}`);
+
+
+
+    </script>
+</body>
+</html>
