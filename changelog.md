@@ -145,3 +145,9 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 -Added: modulo08Projeto2
 -Added: arquivos
 -Added: aula02CriandoEstrutura
+
+## [0.0.19] - 09-06-2025
+
+#Added
+
+-Added: aula03Estilizando
