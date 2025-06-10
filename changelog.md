@@ -151,3 +151,9 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 #Added
 
 -Added: aula03Estilizando
+
+## [0.0.20] - 09-06-2025
+
+#Added
+
+-Added: aula04InserindoNotas
