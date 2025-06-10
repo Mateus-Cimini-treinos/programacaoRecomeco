@@ -157,3 +157,10 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 #Added
 
 -Added: aula04InserindoNotas
+
+
+## [0.0.21] - 10-06-2025
+
+#Added
+
+-Added: aula05CalculandoMedias
