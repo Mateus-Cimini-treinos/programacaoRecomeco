@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="./main.css">
+    <title>Media ENEM</title>
+</head>
+<body>
+    
+    <div class="container">
+        <header>
+            <i id="open-modal-help" class="fas fa-question-circle"></i>
+            <div id="modal-help" class="modal">
+                <div class="modal-content">
+                    <span id="close-modal-help" class="close">&times;</span>
+                    <h2>Como funciona o site?</h2>
+                    <p>Bem-vindo! Aqui você pode inserir suas  5 notas do enem, para calcular sua média final.</p>
+                    
+                    <h3>Passo a passo:</h3>
+                    <ol>
+                        <li>A disciplina aparecerá automaticamente no campo superior.</li>
+                        <li>Digite a nota no campo a frente.</li>
+                        <li>Clique em “Adicionar +”.</li>
+                        <li>Ao preencher as 5 disciplinas, a média será calculada.</li>
+                    </ol>
+
+                    <p><strong>Observações:</strong> Só é possível uma nota por disciplina. Após as 5 inserções, o sistema será travado. Caso tenha colocado a nota errada atualize o site ou precione "f5" no teclado para recarregar o site e zerar a tabela</p>
+
+                </div>
+
+            </div>
+            <img src="../arquivos/images/logo.png" alt="logo-site">
+
+            <h1>Calculadora de Médias do ENEM</h1>
+        </header>
+
+
+        <form id="form-score">
+            <input id="input-discipline" type="text" placeholder="Acabou!" disabled>
+            <input id="input-score" type="number" placeholder="Adicione sua nota:" required min="0" max="1000">
+            <button id="btn-add" type="submit">Adicionar +</button>
+        </form>
+
+        <table cellspacing="0">
+            <thead>
+                <tr>
+                    <th>Áreas de Conhecimento</th>
+                    <th>Notas</th>
+                </tr>
+            </thead>
+
+            <tbody>
+            </tbody>
+
+            <tfoot>
+                <tr>
+                    <td>Média Final</td>
+                    <td id="final-Average">0</td>
+                    <td><button>Cursos Compativeis 📝</button></td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+
+    <script src="./main.js"></script>
+</body>
+</html>

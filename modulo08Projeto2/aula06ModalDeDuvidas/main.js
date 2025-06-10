@@ -1,5 +1,6 @@
-// const doubts = window.document.getElementById('');
+
 // const courses = window.document.getElementById('');
+
 
 const form = document.getElementById('form-score');
 const scores = []
@@ -86,3 +87,22 @@ function updateFinalAverage() {
 };
 
 
+// Seleciona os elementos modal de ajuda
+const modalHelp = window.document.getElementById('modal-help');
+const btnOpenModalHelp = document.getElementById('open-modal-help');
+const btnCloseModalHelp = document.getElementById('close-modal-help');
+
+btnOpenModalHelp.addEventListener('click', () => {
+    modalHelp.style.display = 'block';
+});
+
+btnCloseModalHelp.addEventListener('click', () => {
+    modalHelp.style.display = 'none';
+});
+
+// fecha a janela do modal caso o usuario clique fora do modal
+window.addEventListener('click', (event) => {
+    if (event.target === modalHelp) {
+        modalHelp.style.display = 'none';
+    }
+});
