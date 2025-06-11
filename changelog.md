@@ -165,3 +165,10 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 
 -Added: aula05CalculandoMedias
 -Added: aula06ModalDeDuvidas
+
+## [0.0.22] - 10-06-2025
+
+#Added
+
+-Added: aula07PagCursos
+
