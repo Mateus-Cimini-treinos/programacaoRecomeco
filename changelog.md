@@ -172,3 +172,10 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 
 -Added: aula07PagCursos
 
+## [0.0.23] - 12-06-2025
+
+#Added
+
+-Added: modulo09ConhecendoJQuery
+-Added: aula01SelecionandoElementos
+
