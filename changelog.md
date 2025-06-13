@@ -179,3 +179,10 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 -Added: modulo09ConhecendoJQuery
 -Added: aula01SelecionandoElementos
 
+
+## [0.0.24] - 13-06-2025
+
+#Added
+
+-Added: aula02ManipulandoElementos
+
