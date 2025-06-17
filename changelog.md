@@ -187,3 +187,9 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 -Added: aula02ManipulandoElementos
 -Added: aula03AplicandoAnimaçao
 
+## [0.0.25] - 16-06-2025
+
+#Added
+
+-Added: aula04ManipulandoDOM
+
