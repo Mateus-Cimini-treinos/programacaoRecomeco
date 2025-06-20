@@ -193,3 +193,11 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 
 -Added: aula04ManipulandoDOM
 
+## [0.0.26] - 20-06-2025
+
+#Added
+
+-Added: modulo10PluginsJQuery
+-Added: aula01conhecendoMenuHamburguerJQuery
+-Added: aula02AdicionandoSeçaoSobre
+
