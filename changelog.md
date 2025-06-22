@@ -201,3 +201,9 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 -Added: aula01conhecendoMenuHamburguerJQuery
 -Added: aula02AdicionandoSeçaoSobre
 
+## [0.0.27] - 21-06-2025
+
+#Added
+
+-Added: aula03AplicandoMascara
+-Added: aula04ValidaForm
