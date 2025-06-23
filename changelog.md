@@ -207,9 +207,17 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 
 -Added: aula03AplicandoMascara
 
-## [0.0.27] - 22-06-2025
+## [0.0.28] - 22-06-2025
 
 #Added
 
 -Added: aula04ValidaForm
 -Added: aula05PrenchimentoAutomatico
+
+## [0.0.29] - 23-06-2025
+
+#Added
+
+-Added: modulo11CssResponsivo
+-Added: aula02UnidadeDeMedidasFlexiveisEFixas
+-Added: aula03UseBreakpoints
