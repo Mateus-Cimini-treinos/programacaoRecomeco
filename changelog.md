@@ -206,4 +206,10 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 #Added
 
 -Added: aula03AplicandoMascara
+
+## [0.0.27] - 22-06-2025
+
+#Added
+
 -Added: aula04ValidaForm
+-Added: aula05PrenchimentoAutomatico

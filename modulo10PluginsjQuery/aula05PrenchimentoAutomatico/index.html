@@ -230,57 +230,7 @@
 <script src="./js/jquery.mask.min.js"></script>
 <script src="./js/jquery.validate.min.js"></script>
 <script src="./js/messages_pt_BR.min.js"></script>
-<script>
-    $(document).ready(function(){
-        $('#carousel-images').slick({
-            autoplay:true
-        });
-
-        $('.menu-hamburguer').click(function() {
-            $('#nav-bar').slideToggle();
-        });
-
-        $('#tel').mask('(00) 00000-0000', {
-            placeholder: '(00) 91234-5678'
-        })
-
-        $('form').validate({
-            rules: {
-                nome: {
-                    required: true
-                },
-                tel: {
-                    required: true
-                }, 
-                email: {
-                    required: true,
-                    email: true
-                }, 
-                car: {
-                    required: true
-                },
-                mensagem: {
-                    required: false
-                }
-            },
-
-            messages: {
-                nome: 'Por favor insira seu nome'
-            },
-            submitHandler: function(form) {
-                console.log(form);
-                
-            },
-            invalidHandler: function(evento, validador){
-                let camposIncorretos = validador.numberOfInvalids();
-                if (camposIncorretos) {
-                    alert(`Existe ${camposIncorretos} campos incorretos!`)
-                }
-                
-            }
-        })
-    });
-</script>
+<script src="./js/main.js"></script>
 </body>
 
 </html>
