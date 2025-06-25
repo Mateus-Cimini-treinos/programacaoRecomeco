@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Use imagens</title>
+    <style>
+        #imgYunaraLol {
+            background-image: url("https://www.4fansites.de/bilder/news/league-of-legends-champion-yunara.jpg");
+            height: 8750px;
+            width: 100%;
+            background-repeat: no-repeat;
+            background-color: blueviolet;
+            background-size: contain;
+        }
+    </style>
+</head>
+<body>
+    
+    <h1>Imagens de tamanhons diferentes com base no width na pagina</h1>
+
+    <picture>
+        <source media="(max-width: 750px)" srcset="../imgs/foto-p.png">
+        <source media="(max-width: 1050px)" srcset="../imgs/foto-m.png">
+        <img src="../imgs/foto-g.png">
+    </picture>
+
+    <div id="imgYunaraLol"></div><!-- Nao recomendado mas da pra usar -->
+
+</body>
+</html>
