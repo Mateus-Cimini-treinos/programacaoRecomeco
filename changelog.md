@@ -221,4 +221,11 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 -Added: modulo11CssResponsivo
 -Added: aula02UnidadeDeMedidasFlexiveisEFixas
 -Added: aula03UseBreakpoints
+
+
+## [0.0.30] - 24-06-2025
+
+#Added
 -Added: aula04UseImagens
+-Added: aula05MenuDropDown
+-Added: aula06CssGrid

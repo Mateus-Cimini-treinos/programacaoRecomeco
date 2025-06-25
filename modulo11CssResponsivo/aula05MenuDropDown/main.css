@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "roboto", "sans-serif";
+}
+
+.container {
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header {
+    padding: 16px 0 0;
+    border-bottom: solid 1px #ccc ;
+}
+
+.menu>li{
+    float: left;
+    list-style: none;
+    padding: 16px;
+    border-top: 4px solid transparent;
+    position: relative;
+}
+
+.clear {
+    clear: both;
+}
+
+.submenu {
+    display: none;
+    position: absolute;
+    width: 300px;
+    top: 100%;
+    left: 0;
+    border: 1px solid red;
+}
+
+.menu li:hover .submenu {
+    display: block;
+}
+
+.menu li:hover {
+    border-color: red;
+}
+
+.submenu li {
+    display: block;
+}
