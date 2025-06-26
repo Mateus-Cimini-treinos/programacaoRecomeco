@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercicio Seletores Js e Html</title>
+</head>
+<body>
+    <h1 id="titulo-principal">Olá!</h1>
+
+    <p class="descricao">Este é um parágrafo que será alterado.</p>
+    <p class="descricao">Outro parágrafo aqui.</p>
+
+    <input type="text" id="campo-nome" placeholder="Digite seu nome" />
+    <button type="submit" id="btn-mostrar">Mostrar nome</button>
+
+    <ul>
+        <li class="item">Item 1</li>
+        <li class="item">Item 2</li>
+        <li class="item">Item 3</li>
+    </ul>
+
+    <script>
+        const titulo = document.querySelector('h1');
+        titulo.innerText = "Seja bem-vindo!";
+
+        
+        const paragrafosComNovaCor = document.querySelectorAll(".descricao");
+        console.log(paragrafosComNovaCor);
+        
+
+        // paragrafosComNovaCor.style.backgroundColor  = 'red' // nao consegui
+
+
+        const btnSubmit = document.getElementById('btn-mostrar')
+        btnSubmit.addEventListener('click', () => {
+            const valorCampo = document.getElementById('campo-nome');
+            console.log(`Esse é o valor do campo: ${valorCampo}`);
+            alert(`Esse é o valor do campo: ${valorCampo}`)  
+        });
+
+        const lis = document.querySelectorAll('.item');
+        lis.window.document.style.border = '1px red solid'
+        
+    </script>
+</body>
+</html>

@@ -226,7 +226,13 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 ## [0.0.30] - 24-06-2025
 
 #Added
+
 -Added: aula04UseImagens
 -Added: aula05MenuDropDown
 -Added: aula06CssGrid
 -Added: aula07CoverterDisplayFixoParaResponsivo
+
+## [0.1.00] - 25-06-2025
+
+-Added: seletores.md
+-Added: exeSeletoresChatGpt

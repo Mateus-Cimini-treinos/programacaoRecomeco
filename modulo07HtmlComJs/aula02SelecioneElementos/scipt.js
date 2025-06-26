@@ -12,3 +12,5 @@ function mensagemNoConsole(event) {
 }
 
 btn.addEventListener('click', mensagemNoConsole);
+
+
