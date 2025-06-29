@@ -153,6 +153,9 @@ meus primeiros passos no  Seletores em addEventListener!! me guie no meu primeir
 
 
 
-Agora me faça 10 perguntas sobre Seletores em addEventListener para testar meu conhecimento
+Agora me faça 5 perguntas sobre breackpoinsts para testar meu conhecimento
+
+
+
 
 

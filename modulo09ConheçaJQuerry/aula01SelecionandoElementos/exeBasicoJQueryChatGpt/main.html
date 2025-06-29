@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basico de JQuery</title>
+    <style>
+    </style>
+</head>
+<body>
+    
+    <ul>
+        <li>
+            <p class="txt1">
+                Fica azul!
+            </p>
+        </li>
+        <li>
+            <p class="txt2">
+                Fica amarelo!
+            </p>
+        </li>
+        <li>
+            <p class="txt3">
+                Fica vermelho!
+            </p>
+        </li>
+    </ul>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('.txt1').on('click', function() {
+                $(this).css('color', 'blue');
+            });
+
+            $('.txt2').on('click', function() {
+                $(this).css('color', 'yellow');
+            });
+
+            $('.txt3').on('click', function() {
+                $(this).css('color', 'red');
+            });
+        });
+    </script>
+</body>
+</html>

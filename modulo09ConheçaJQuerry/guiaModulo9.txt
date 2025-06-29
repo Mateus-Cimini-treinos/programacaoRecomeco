@@ -1,0 +1,1 @@
+Nesse modulo vamos trabalhar com JQuery, que e uma ferramenta importante para almentar as ferramentas que temos no javaScript

@@ -1,0 +1,1 @@
+Nesse modulo vamos trabalhar com a parte de plugns do JQuery, plugns permite que add novas blibiotecas no JQuery para ter novas funçoes no nosso JQuery

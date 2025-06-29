@@ -94,149 +94,159 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 
 #Added
 
--Added: aula05loops
+- Added: aula05loops
 
 ## [0.0.12] - 16-05-2025
 
 #Added
 
--Added: aula06Condicionais
+- Added: aula06Condicionais
 
 ## [0.0.13] - 19-05-2025
 
 #Added
 
--Added: aula07Funçoes
--Added: aula08EscopoEClosures
+- Added: aula07Funçoes
+- Added: aula08EscopoEClosures
 
 ## [0.0.14] - 29-05-2025
 
 #Added
 
--Added: modulo07HtmlComJs
--Added: ArquivoModulo7
--Added: aula02SelecioneElementos
+- Added: modulo07HtmlComJs
+- Added: ArquivoModulo7
+- Added: aula02SelecioneElementos
 
 
 ## [0.0.15] - 02-06-2025
 
 #Added
 
--Added: aula03DesignEForm
--Added: aula04AddEventoAoForm
+- Added: aula03DesignEForm
+- Added: aula04AddEventoAoForm
 
 
 ## [0.0.16] - 04-06-2025
 
 #Added
 
--Added: aula05EstilizeElementos
+- Added: aula05EstilizeElementos
 
 ## [0.0.17] - 06-06-2025
 
 #Added
 
--Added: exModulo07
+- Added: exModulo07
 
 ## [0.0.18] - 07-06-2025
 
 #Added
 
--Added: modulo08Projeto2
--Added: arquivos
--Added: aula02CriandoEstrutura
+- Added: modulo08Projeto2
+- Added: arquivos
+- Added: aula02CriandoEstrutura
 
 ## [0.0.19] - 09-06-2025
 
 #Added
 
--Added: aula03Estilizando
+- Added: aula03Estilizando
 
 ## [0.0.20] - 09-06-2025
 
 #Added
 
--Added: aula04InserindoNotas
+- Added: aula04InserindoNotas
 
 
 ## [0.0.21] - 10-06-2025
 
 #Added
 
--Added: aula05CalculandoMedias
--Added: aula06ModalDeDuvidas
+- Added: aula05CalculandoMedias
+- Added: aula06ModalDeDuvidas
 
 ## [0.0.22] - 10-06-2025
 
 #Added
 
--Added: aula07PagCursos
+- Added: aula07PagCursos
 
 ## [0.0.23] - 12-06-2025
 
 #Added
 
--Added: modulo09ConhecendoJQuery
--Added: aula01SelecionandoElementos
+- Added: modulo09ConhecendoJQuery
+- Added: aula01SelecionandoElementos
 
 
 ## [0.0.24] - 13-06-2025
 
 #Added
 
--Added: aula02ManipulandoElementos
--Added: aula03AplicandoAnimaçao
+- Added: aula02ManipulandoElementos
+- Added: aula03AplicandoAnimaçao
 
 ## [0.0.25] - 16-06-2025
 
 #Added
 
--Added: aula04ManipulandoDOM
+- Added: aula04ManipulandoDOM
 
 ## [0.0.26] - 20-06-2025
 
 #Added
 
--Added: modulo10PluginsJQuery
--Added: aula01conhecendoMenuHamburguerJQuery
--Added: aula02AdicionandoSeçaoSobre
+- Added: modulo10PluginsJQuery
+- Added: aula01conhecendoMenuHamburguerJQuery
+- Added: aula02AdicionandoSeçaoSobre
 
 ## [0.0.27] - 21-06-2025
 
 #Added
 
--Added: aula03AplicandoMascara
+- Added: aula03AplicandoMascara
 
 ## [0.0.28] - 22-06-2025
 
 #Added
 
--Added: aula04ValidaForm
--Added: aula05PrenchimentoAutomatico
+- Added: aula04ValidaForm
+- Added: aula05PrenchimentoAutomatico
 
 ## [0.0.29] - 23-06-2025
 
 #Added
 
--Added: modulo11CssResponsivo
--Added: aula02UnidadeDeMedidasFlexiveisEFixas
--Added: aula03UseBreakpoints
+- Added: modulo11CssResponsivo
+- Added: aula02UnidadeDeMedidasFlexiveisEFixas
+- Added: aula03UseBreakpoints
 
 
 ## [0.0.30] - 24-06-2025
 
 #Added
 
--Added: aula04UseImagens
--Added: aula05MenuDropDown
--Added: aula06CssGrid
--Added: aula07CoverterDisplayFixoParaResponsivo
+- Added: aula04UseImagens
+- Added: aula05MenuDropDown
+- Added: aula06CssGrid
+- Added: aula07CoverterDisplayFixoParaResponsivo
 
 ## [0.1.00] - 25-06-2025
 
--Added: seletores.md
--Added: exeSeletoresChatGpt
+- Added: seletores.md
+- Added: exeSeletoresChatGpt
 
 ## [0.1.01] - 26-06-2025
 
--Added: addEventListener.md
+- Added: addEventListener.md
+
+## [0.1.02] - 28-06-2025
+
+- Added: guiaModulo8.txt
+- Added: guiaModulo9.txt
+- Added: selecionandoElemento.md
+- Added: exeBasicoJQueryChatGpt
+- Added: guiaModulo10.txt
+- Added: breackpoints.md
+- Added: unidadesDeMedidas.md

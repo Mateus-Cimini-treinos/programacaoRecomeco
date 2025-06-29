@@ -1,0 +1,1 @@
+Nesse modulo criamos um projeto, que seria um aplicaçao front-end, para praticar bastante o html,css e javaScript, No curso era ura um projeto de calculadora de media do aluno, mas eu espandi um pouco o rpojeto e fiz uma calculadora de nota do ENEM
