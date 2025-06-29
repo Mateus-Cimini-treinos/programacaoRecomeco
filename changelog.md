@@ -236,3 +236,7 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 
 -Added: seletores.md
 -Added: exeSeletoresChatGpt
+
+## [0.1.01] - 26-06-2025
+
+-Added: addEventListener.md

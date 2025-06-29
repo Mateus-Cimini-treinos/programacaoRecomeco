@@ -131,27 +131,28 @@ botao.addEventListener("click", () => {
 Entender e saber utilizar bem os seletores é o **primeiro passo para manipular o DOM** com JavaScript. Com isso, você conseguirá alterar conteúdo, aplicar estilos, escutar eventos e criar sites mais interativos!
 
 
-O que é Seletores em Js ?
+O que é Seletores em addEventListener ?
 
-Para que serve Seletores em Js?
+Para que serve Seletores em addEventListener?
 
-Quando devo usar Seletores em Js?
+Quando devo usar Seletores em addEventListener?
 
-Aonde devo usar Seletores em Js ?
+Aonde devo usar Seletores em addEventListener ?
 
-Oque eu preciso saber e aprender antes de aprender Seletores em Js?
+Oque eu preciso saber e aprender antes de aprender Seletores em addEventListener?
 
-Oq eu preciso para usar Seletores em Js?
+Oq eu preciso para usar Seletores em addEventListener?
 
-Como usar Seletores em Js?
+Como usar Seletores em addEventListener?
 
-Qual linguagem de programação Seletores em Js funciona?
+Qual linguagem de programação Seletores em addEventListener funciona?
 
-Comandos básicos para usar Seletores em Js?
+Comandos básicos para usar Seletores em addEventListener?
 
-meus primeiros passos no  Seletores em Js!! me guie no meu primeiro projeto simples com Seletores em Js
+meus primeiros passos no  Seletores em addEventListener!! me guie no meu primeiro projeto simples com Seletores em addEventListener
 
 
 
-Agora me faça 10 perguntas sobre Seletores em Js para testar meu conhecimento
+Agora me faça 10 perguntas sobre Seletores em addEventListener para testar meu conhecimento
+
 
