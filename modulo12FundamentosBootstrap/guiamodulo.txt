@@ -1,0 +1,9 @@
+Nesse modulo vamos ver sobre bootstrap, vou aprender o basico como: desenvolver em grids, tipografia, tabelas, botoes, alerta, formularios etc...
+
+a ideia e que cada aula vai ser sobre um elemento especifico e vou criar um html,css ejs para manipular esse elemento
+
+
+Links
+
+CSS:https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css 
+JS:https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js
