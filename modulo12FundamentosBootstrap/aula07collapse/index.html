@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+  <title>Modulo 12/Aula 07</title>
+    <style>
+     #price, #price2 p {
+        width: 300px
+    }
+    </style>
+</head>
+<body>
+    <h1>Collapse</h1>
+  <div class="container">
+      <button type="button" class="btn btn-primary" data-bs-toggle='collapse' data-bs-target='#price'>Ver preço</button>
+    <div id="price" class="collapse collapse-horizontal">
+      <p>
+          3x de R$300,00
+        </p>
+    </div>
+      <button type="button" class="btn btn-secondary" data-bs-toggle='collapse' data-bs-target='#price2'>Ver preço</button>
+    <div id="price2" class="collapse">
+      <p>
+          3x de R$600,00
+        </p>
+    </div>
+ 
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
