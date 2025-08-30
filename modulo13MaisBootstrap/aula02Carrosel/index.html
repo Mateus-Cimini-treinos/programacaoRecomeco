@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>Modulo 13/ Aula 02</title>
+    <style>
+    p {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding-top: 50px;
+    }
+    </style>
+  </head>
+  <body>
+    <h1>Carousel</h1>    
+    <div class="container">
+
+
+      <p><strong>Complete carousel:</strong></p>
+
+      <div id="carouselMagic" class="carousel slide carousel-dark carousel-fade" data-bs-ride='carousel'>
+        <div class="carousel-indicators">
+          <button type="button" class="active" data-bs-target="#carouselMagic" data-bs-slide-to="0"></button>
+          <button type="button" class="" data-bs-target="#carouselMagic" data-bs-slide-to="1"></button>
+          <button type="button" class="" data-bs-target="#carouselMagic" data-bs-slide-to="2"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active" data-bs-interval="1000">
+            <img class="d-block w-100" src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_65.jpg" alt="Syndra">
+            <div class="carousel-caption">
+              <h3>Syndra Docinho</h3>
+            </div>
+          </div>
+          <div class="carousel-item" data-bs-interval="1000"> 
+            <img class="d-block w-100" src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_88.jpg" alt="Ahri">
+            <div class="carousel-caption">
+              <h4>Ahri Termas Noturnas do Florescer Espiritual</h4>
+            </div>
+          </div>
+          <div class="carousel-item" data-bs-interval="1000"> 
+            <img class="d-block w-100" src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_14.jpg" alt="Viktor">
+            <div class="carousel-caption">
+              <h4>Viktor Velho Oeste</h4>
+            </div>
+          </div>
+        </div>
+
+        <button data-bs-target="#carouselMagic" data-bs-slide="prev" type="button" class="carousel-control-prev">
+          <span class="carousel-control-prev-icon"></span>
+        <button data-bs-target="#carouselMagic" data-bs-slide="next" type="button" class="carousel-control-next">
+          <span class="carousel-control-next-icon"></span>
+        </button>
+      </div>
+
+
+      <p><strong>Basic carousel:</strong></p>
+
+      <div id="carouselYunaraZeri" class="carousel slide" data-bs-ride='carousel'>
+        <div class="carousel-inner">
+          <div class="carousel-item active" data-bs-interval="1000">
+            <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yunara_0.jpg" alt="yunara">
+          </div>
+          <div class="carousel-item">
+            <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yunara_1.jpg" alt="yunara">
+          </div>
+          <div class="carousel-item">
+            <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_29.jpg" alt="zeri">
+          </div>
+        </div>
+
+        <button data-bs-target="#carouselYunaraZeri" data-bs-slide="prev" type="button" class="carousel-control-prev">
+          <span class="carousel-control-prev-icon"></span>
+        </button>
+        <button data-bs-target="#carouselYunaraZeri" data-bs-slide="next" type="button" class="carousel-control-next">
+          <span class="carousel-control-next-icon"></span>
+        </button>
+      </div>
+
+
+
+      <p><strong>Fade carousel:</strong></p>
+
+      <div id="carouselDarkin" class="carousel slide carousel-fade" data-bs-ride='carousel'>
+        <div class="carousel-inner">
+          <div class="carousel-item active" data-bs-interval="1000">
+            <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_53.jpg" alt="varus">
+          </div>
+          <div class="carousel-item">
+            <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_15.jpg" alt="kayn">
+          </div>
+          <div class="carousel-item">
+            <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_7.jpg" alt="aatrox">
+          </div>
+        </div>
+
+        <button data-bs-target="#carouselDarkin" data-bs-slide="prev" type="button" class="carousel-control-prev">
+          <span class="carousel-control-prev-icon"></span>
+        </button>
+        <button data-bs-target="#carouselDarkin" data-bs-slide="next" type="button" class="carousel-control-next">
+          <span class="carousel-control-next-icon"></span>
+        </button>
+      </div>
+
+
+      <p><strong>Dark carousel:</strong></p>
+
+      <div id="carouselPeal" class="carousel slide carousel-dark" data-bs-ride='carousel'>
+        <div class="carousel-indicators">
+          <button type="button" class="active" data-bs-target="#carouselPeal" data-bs-slide-to="0"></button>
+          <button type="button" class="" data-bs-target="#carouselPeal" data-bs-slide-to="1"></button>
+          <button type="button" class="" data-bs-target="#carouselPeal" data-bs-slide-to="2"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active" data-bs-interval="1000">
+            <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_55.jpg" alt="lulu">
+          </div>
+          <div class="carousel-item">
+            <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_36.jpg" alt="janna">
+          </div>
+          <div class="carousel-item">
+            <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_15.jpg" alt="nami">
+          </div>
+        </div>
+
+        <button data-bs-target="#carouselPeal" data-bs-slide="prev" type="button" class="carousel-control-prev">
+          <span class="carousel-control-prev-icon"></span>
+        </button>
+        <button data-bs-target="#carouselPeal" data-bs-slide="next" type="button" class="carousel-control-next">
+          <span class="carousel-control-next-icon"></span>
+        </button>
+
+      </div>
+
+
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
+
